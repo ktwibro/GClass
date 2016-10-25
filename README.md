@@ -1,2 +1,0 @@
-# GClass
-Team group
